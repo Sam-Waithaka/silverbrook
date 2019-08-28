@@ -1,0 +1,37 @@
+body {
+	background-color:F2F1B8;
+	font-family: Arial, Verdana, sans-serif;
+	padding-left: 10em;
+	padding-right: 10em;
+	padding-top: 3em;
+	padding-bottom:3em;
+}
+nav img{
+	height: 2.5em;
+	width : 5em;
+	float:right;
+}
+li{
+	display:inline;
+	padding:o.5em;
+}
+nav ul{
+text-align:centre;	
+display:inline-block;
+text-decoration:none;
+}
+h3, hr{
+	color:6BBF94;
+}
+
+footer p{
+	text-align:center;
+	font-size:2em;
+}
+section img{
+	height:15em;
+	width:30em;
+}
+#three {
+	float: centre;
+}
